@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**thukralmanav5-star/thukralmanav5-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Manav Thukral 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst | SQL | Python | Excel | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building my skills in Data Analytics and learning how to transform raw data into meaningful business insights.
+
+## 🚀 About Me
+
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🐍 Learning Python for data analysis
+- 🗄️ Practising SQL and database querying
+- 📈 Learning Excel and Power BI dashboards
+- 🎯 Currently building practical analytics projects for my portfolio
+
+## 🛠️ Technical Skills
+
+- **Languages:** SQL, Python
+- **Data Analysis:** Pandas, NumPy
+- **Visualisation:** Matplotlib, Seaborn, Power BI
+- **Spreadsheet:** Microsoft Excel
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## 📂 Featured Projects
+
+*Projects coming soon!*
+
+## 🎯 Career Goal
+
+To become a Data Analyst who can solve real-world business problems through data analysis, visualisation and data-driven decision-making.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/thukralmanav5-star
